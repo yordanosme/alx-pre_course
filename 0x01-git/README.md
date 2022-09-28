@@ -1,2 +1,2 @@
 my second commit
-Hot fix
+my readme is up to date
